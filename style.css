@@ -85,10 +85,10 @@
 .sidebar_menu .menu li:hover{
   box-shadow: 0 0 4px rgba(255, 255, 255, 0.5);
 }
-.btn_one i:hover{
+.btn_one label:hover i{
   font-size: 40px;
 }
-.btn_two i:hover{
+.btn_two label:hover i{
   font-size: 30px;
 }
 .sidebar_menu .social_media i:hover{
